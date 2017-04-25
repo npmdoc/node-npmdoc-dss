@@ -1,4 +1,7 @@
-# api documentation for  [dss (v1.0.4)](https://github.com/darcyclarke/dss)  [![npm package](https://img.shields.io/npm/v/npmdoc-dss.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-dss) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-dss.svg)](https://travis-ci.org/npmdoc/node-npmdoc-dss)
+# npmdoc-dss
+
+#### basic api documentation for  [dss (v1.0.4)](https://github.com/darcyclarke/dss)  [![npm package](https://img.shields.io/npm/v/npmdoc-dss.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-dss) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-dss.svg)](https://travis-ci.org/npmdoc/node-npmdoc-dss)
+
 #### Documented Style Sheets
 
 [![NPM](https://nodei.co/npm/dss.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/dss)
@@ -64,7 +67,8 @@
         "url": "git+https://github.com/darcyclarke/dss.git"
     },
     "scripts": {},
-    "version": "1.0.4"
+    "version": "1.0.4",
+    "bin": {}
 }
 ```
 
